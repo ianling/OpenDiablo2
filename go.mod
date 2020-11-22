@@ -11,6 +11,7 @@ require (
 	github.com/google/uuid v1.1.2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	github.com/gravestench/akara v0.0.0-20201014060234-a64208a7fd3c
 <<<<<<< HEAD
 	github.com/hajimehoshi/ebiten/v2 v2.0.2
@@ -22,6 +23,9 @@ require (
 =======
 	github.com/gravestench/akara v0.0.0-20201119221449-924b47999403
 >>>>>>> update akara, fix race condition in render system init
+=======
+	github.com/gravestench/akara v0.0.0-20201122210148-a1ee8ea83994
+>>>>>>> akara update: BaseComponent and BaseComponentMap
 	github.com/hajimehoshi/ebiten/v2 v2.0.0
 >>>>>>> adding d2util.Loggers instances to existing systems
 	github.com/pkg/errors v0.9.1 // indirect
