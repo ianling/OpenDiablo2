@@ -12,6 +12,7 @@ require (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	github.com/gravestench/akara v0.0.0-20201014060234-a64208a7fd3c
 <<<<<<< HEAD
 	github.com/hajimehoshi/ebiten/v2 v2.0.2
@@ -26,6 +27,9 @@ require (
 =======
 	github.com/gravestench/akara v0.0.0-20201122210148-a1ee8ea83994
 >>>>>>> akara update: BaseComponent and BaseComponentMap
+=======
+	github.com/gravestench/akara v0.0.0-20201128054238-892de9d70d6b
+>>>>>>> major refactor of akara ecs
 	github.com/hajimehoshi/ebiten/v2 v2.0.0
 >>>>>>> adding d2util.Loggers instances to existing systems
 	github.com/pkg/errors v0.9.1 // indirect
