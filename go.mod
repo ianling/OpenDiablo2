@@ -13,6 +13,7 @@ require (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	github.com/gravestench/akara v0.0.0-20201014060234-a64208a7fd3c
 <<<<<<< HEAD
 	github.com/hajimehoshi/ebiten/v2 v2.0.2
@@ -35,11 +36,15 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 =======
 	github.com/gravestench/akara v0.0.0-20201202061557-d347a52d5532
+=======
+	github.com/gravestench/akara v0.0.0-20201203202918-85b8a01d1130
+>>>>>>> adding terminal, ebiten splash scene
 	github.com/gravestench/pho v0.0.0-20201029002250-f9afbd637e4d
 	github.com/hajimehoshi/ebiten/v2 v2.0.1
 >>>>>>> updating to use new BaseSystem.InjectComponent method
 	github.com/pkg/profile v1.5.0
 	github.com/robertkrimen/otto v0.0.0-20200922221731-ef014fd054ac
+	github.com/stretchr/testify v1.4.0
 	golang.org/x/image v0.0.0-20200927104501-e162460cd6b5
 <<<<<<< HEAD
 <<<<<<< HEAD
