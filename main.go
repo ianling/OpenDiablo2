@@ -1,5 +1,6 @@
 package main
 
+<<<<<<< HEAD
 import (
 	"log"
 
@@ -41,4 +42,10 @@ func main() {
 	if err := instance.Run(); err != nil {
 		return
 	}
+=======
+import "github.com/OpenDiablo2/OpenDiablo2/d2app"
+
+func main() {
+	d2app.Run()
+>>>>>>> transform component, scene testing
 }
