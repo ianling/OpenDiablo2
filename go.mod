@@ -15,6 +15,7 @@ require (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	github.com/gravestench/akara v0.0.0-20201014060234-a64208a7fd3c
 <<<<<<< HEAD
 	github.com/hajimehoshi/ebiten/v2 v2.0.2
@@ -43,6 +44,9 @@ require (
 =======
 	github.com/gravestench/akara v0.0.0-20201206061149-9be03b4110f2
 >>>>>>> transform component, scene testing
+=======
+	github.com/gravestench/akara v0.0.0-20201208183338-ab0934060133
+>>>>>>> changes to d2components, d2systems, d2ui, d2enum
 	github.com/gravestench/pho v0.0.0-20201029002250-f9afbd637e4d
 	github.com/hajimehoshi/ebiten/v2 v2.0.1
 >>>>>>> updating to use new BaseSystem.InjectComponent method

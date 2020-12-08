@@ -768,8 +768,17 @@ func getButtonLayouts() map[ButtonType]ButtonLayout {
 	}
 }
 
+<<<<<<< HEAD
 // static check to ensure button implements clickable widget
 var _ ClickableWidget = &Button{}
+=======
+// GetButtonLayout returns a button layout for the given button type
+func GetButtonLayout(t ButtonType) ButtonLayout {
+	return getButtonLayouts()[t]
+}
+
+var _ Widget = &Button{} // static check to ensure button implements widget
+>>>>>>> changes to d2components, d2systems, d2ui, d2enum
 
 // Button defines a standard wide UI button
 type Button struct {
