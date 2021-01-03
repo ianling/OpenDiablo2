@@ -19,6 +19,12 @@ type Renderer interface {
 	GetCursorPos() (int, int)
 	CurrentFPS() float64
 	ShowPanicScreen(message string)
+<<<<<<< HEAD
 	Print(target interface{}, str string) error
 	PrintAt(target interface{}, str string, x, y int)
+=======
+	Print(target *ebiten.Image, str string) error
+	PrintAt(target *ebiten.Image, str string, x, y int)
+	GetWindowSize() (int, int)
+>>>>>>> De-lint ecs branch
 }
